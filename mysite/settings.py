@@ -25,7 +25,7 @@ SECRET_KEY = '@=%)uvm9t&qu^%+1wrl(a-$kzl#m6!ncq-mlfn)9d@jep5z+a3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'cperotto.pythonanywhere.com/']
 
 
 # Application definition
